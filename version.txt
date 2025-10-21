@@ -1,1 +1,1 @@
-2.2.0;https://raw.githubusercontent.com/SuperAnonymusProgramist2282009/KRIKLoader/main/KRIK.dll
+2.3.0;https://raw.githubusercontent.com/SuperAnonymusProgramist2282009/KRIKLoader/main/KRIK.dll
